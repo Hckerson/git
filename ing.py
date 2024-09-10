@@ -1,2 +1,2 @@
 print("hello naija")
-print("lets go")
+print("make we move")
